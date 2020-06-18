@@ -1,0 +1,558 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"PADDLE",
+				"PADDLE_MARGIN"
+			],
+			[
+				"PADD",
+				"PADDLE_HEIGHT"
+			],
+			[
+				"PAD",
+				"PADDLE_HEIGHT	(ball.js)"
+			],
+			[
+				"paddle",
+				"paddle1Y"
+			],
+			[
+				"bounce",
+				"bouncePointY"
+			],
+			[
+				"freq",
+				"AI_freq"
+			],
+			[
+				"ballsp",
+				"ballSpeedY	(ball.js)"
+			],
+			[
+				"balls",
+				"ballSpeedY"
+			],
+			[
+				"projection",
+				"projectionSpeedY"
+			],
+			[
+				"set",
+				"setDestination"
+			],
+			[
+				"paddlem",
+				"paddleMarginBottom"
+			],
+			[
+				"paddlema",
+				"paddleMarginTop"
+			],
+			[
+				"draw",
+				"draw_0"
+			],
+			[
+				"score",
+				"SCORE_POS_X"
+			],
+			[
+				"SCORE",
+				"SCORE_POS_Y"
+			],
+			[
+				"SCORE_PO",
+				"SCORE_POS_X"
+			],
+			[
+				"KEY_s",
+				"KEY_SPACE"
+			],
+			[
+				"KE",
+				"KEY_F5"
+			],
+			[
+				"bloop",
+				"bloopSound"
+			],
+			[
+				"audio",
+				"audioFormat"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SoundAndMusic.js",
+			"settings":
+			{
+				"buffer_size": 1262,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "graphics.js",
+			"settings":
+			{
+				"buffer_size": 1841,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "input.js",
+			"settings":
+			{
+				"buffer_size": 1505,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ball.js",
+			"settings":
+			{
+				"buffer_size": 1727,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "paddle.js",
+			"settings":
+			{
+				"buffer_size": 2626,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "drawScore.js",
+			"settings":
+			{
+				"buffer_size": 1025,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 605,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 1586,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal	",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 296.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/BOOK hands-on intro to game dev/space/script/graphics.js",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/BOOK hands-on intro to game dev/pong/project.sublime-project",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/BOOK hands-on intro to game dev/warrior/script/input.js",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/BOOK hands-on intro to game dev/pong/project.sublime-workspace",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/BOOK hands-on intro to game dev/sounds/main.js",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/BOOK hands-on intro to game dev/space/script/wrap.js",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/BOOK hands-on intro to game dev/sounds/SoundAndMusic.js",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/BOOK hands-on intro to game dev/sounds/SoundOverlaps.js",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/BOOK hands-on intro to game dev/sounds/index.html",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/BOOK hands-on intro to game dev/sounds/script.js",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/BOOK hands-on intro to game dev/racing/script/graphics.js",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/BOOK hands-on intro to game dev/space/index.html",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/Excersize_React_MusicApp/app.js",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/Excersize_React_MusicApp/app.css",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/Excersize_React_MusicApp/index.html",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/Excersize_React_MusicApp/index.html.txt",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/Excersize_React_MusicApp/app.js.txt",
+		"/C/Users/sebst_gvpff9a/Desktop/Coding Projects/Excersize_React_MusicApp/app.css.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"AI_plan",
+			"PADDLE_MARGIN",
+			"projectedY",
+			"projectedX",
+			"projectedSpeed",
+			"projection",
+			");\n",
+			"movePaddles",
+			"drawBall",
+			"restart",
+			"player1Score",
+			"showScore",
+			"scoreFontSize",
+			"gameIsOn",
+			"win",
+			"showWinScreen",
+			"paddle2speed",
+			"ctx",
+			"12"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"showMenuScreen",
+			"PADDLE_SPEED"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SoundAndMusic.js",
+					"settings":
+					{
+						"buffer_size": 1262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "graphics.js",
+					"settings":
+					{
+						"buffer_size": 1841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1756,
+								1756
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "input.js",
+					"settings":
+					{
+						"buffer_size": 1505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								765,
+								765
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ball.js",
+					"settings":
+					{
+						"buffer_size": 1727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								755,
+								755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "paddle.js",
+					"settings":
+					{
+						"buffer_size": 2626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "drawScore.js",
+					"settings":
+					{
+						"buffer_size": 1025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								410,
+								410
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "main.js",
+					"settings":
+					{
+						"buffer_size": 1586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.63,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
